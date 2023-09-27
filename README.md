@@ -1,2 +1,7 @@
-# github-demo
-A simple demo repository to show GitHub Workflow
+## Starter Web Project
+
+## Introduction
+
+## Purpose
+
+## How To Contribute
